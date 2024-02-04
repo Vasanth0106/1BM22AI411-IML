@@ -51,7 +51,7 @@
 8_KMeans_algorithm::
 
 ![Screenshot 2024-02-04 165813](https://github.com/Vasanth0106/1BM22AI411-IML/assets/139615614/fe2808f1-1ec0-4bf6-bb78-7977f6668ec8)
-![Screenshot 2024-02-04 165826](https://github.com/Vasanth0106/1BM22AI411-IML/assets/139615614/a5b9df84-9bc4-4688-ac8b-2468de6a0df9)
+
 ![Screenshot 2024-02-04 165835](https://github.com/Vasanth0106/1BM22AI411-IML/assets/139615614/5744bef2-ea5e-49d3-8d99-fb56fa5ab97d)
 
 

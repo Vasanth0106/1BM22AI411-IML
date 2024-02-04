@@ -9,5 +9,6 @@ s_algorithm-2::->output
 
 
 
-![image](https://github.com/Vasanth0106/1BM22AI411-IML/assets/139615614/66a1deec-87d7-4bd4-9785-9b7c0bd99763)
+![image](https://github.com/Vasanth0106/1BM22AI411-IML/assets/139615614/3993846a-432a-463f-b94d-69b469389d35)
+
 

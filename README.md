@@ -55,7 +55,16 @@
 ![Screenshot 2024-02-04 165835](https://github.com/Vasanth0106/1BM22AI411-IML/assets/139615614/5744bef2-ea5e-49d3-8d99-fb56fa5ab97d)
 
 
-9_PCA
+
+9_Apriori_algoritm::
+
+
+![image](https://github.com/Vasanth0106/1BM22AI411-IML/assets/139615614/ad331a15-0c44-4418-9589-dbfe9742e39e)
+
+
+
+
+10_PCA
 
 
 
